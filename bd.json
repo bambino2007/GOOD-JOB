@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "phone": "Iphone12 ProMax",
+        "manufacturer": "Apple",
+        "price": 203400000
+        
+    },
+    {
+        "id": 2,
+        "phone": "Galaxy S20",
+        "manufacturer": "Samsung",
+        "price": 1400000
+        
+    },
+    {
+        "id": 3,
+        "phone": "Redmi 10s",
+        "manufacturer": "Xaomi",
+        "price": 100023131
+        
+        
+    }
+]
